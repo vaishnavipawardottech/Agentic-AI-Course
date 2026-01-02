@@ -1,0 +1,22 @@
+{
+"subject":"HTML",
+"total_questions":10,
+"difficulty": {"easy":4, "medium":3, "hard":3},
+"questions":[
+    {
+        "question_number":1,
+        "question_difficulty":"easy",
+        "question": "What is full form of HTML?",
+        "choices": ["Hyper Text Markup Language","Hyper Text Language", "HyperText Model Language", "None of above"],
+        "answer": "Hyper Text Markup Language"
+    },
+    {
+        "question_number":2,
+        "question_difficulty":"easy",
+        "question": "What is full form of CSS?",
+        "choices": ["Cascading Style Sheets","Common Style Sheets", "Cpp Style Sheets", "All of the above"],
+        "answer": "Cascading Style Sheets"
+    }
+
+]
+}
